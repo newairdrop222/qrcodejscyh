@@ -1,0 +1,9 @@
+{
+  "name": "awesome-random-quotes",
+  "version": "1.0.0",
+  "description": "A small open-source library that returns a random motivational quote.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/awesome-random-quotes"
+  }
+}

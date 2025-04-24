@@ -1,0 +1,12 @@
+{
+  "name": "awesome-random-quotes",
+  "version": "1.0.0",
+  "description": "A simple open-source library that returns a random motivational quote.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "keywords": ["quotes", "random", "motivational", "tea"],
+  "author": "Your Name",
+  "license": "MIT"
+}
